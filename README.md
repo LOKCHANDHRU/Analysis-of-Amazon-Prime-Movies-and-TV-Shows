@@ -4,11 +4,12 @@ The Amazon Prime Movies and TV Shows Analysis project focuses on exploring and v
 
 # Dataset Used
 
+<a href="https://github.com/LOKCHANDHRU/Analysis-of-Amazon-Prime-Movies-and-TV-Shows/blob/main/amazon_prime_titles.csv">Amazon Movies and TV Shows Dataset</a>
 
 # Problem Statement:
 
 Explore and analyze the Amazon Prime Shows dataset using Python to uncover basic insights related to content availability, genres, ratings, languages, and release trends.
-EDA Objectives (Using Python Basics):
+EDA Objectives (Using Python):
 1.	Understand the dataset structure
      - Load the dataset using pandas
      - Display column names, data types, and basic statistics
@@ -28,7 +29,7 @@ EDA Objectives (Using Python Basics):
       -	Bar charts for genre, ratings, language
       -	Line chart for year-wise content count
       -	Pie chart for content type distribution
-Problem Statement
+<a href="https://github.com/LOKCHANDHRU/Analysis-of-Amazon-Prime-Movies-and-TV-Shows/blob/main/Problem%20statement.docx"> Problem Statement</a>
 
 # Process
 
@@ -50,5 +51,8 @@ Problem Statement
  - Document Findings and Conclusion
 
 # Project File
+
+The final output of this project can be accessed through the file provided below, which contains the complete analysis and visualization of Amazon Prime Movies and TV Shows data.
+<a href="https://github.com/LOKCHANDHRU/Analysis-of-Amazon-Prime-Movies-and-TV-Shows/blob/main/Analysis%20of%20Amazon%20Prime%20Movies%20and%20TV%20Shows.ipynb">Project</a>
 
 
